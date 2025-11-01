@@ -18,7 +18,7 @@ My passion for cybersecurity has driven me to build home labs, simulate attacks,
 | Network Analysis   | [Network Traffic Lab](https://github.com/SHAHID1100HACK/Network-Traffic-Lab)|
 | Firewall Setup     | [Firewall Lab](https://github.com/SHAHID1100HACK/Firewall-Lab)              |
 | Incident Response  | [BruteForce Detection](https://github.com/SHAHID1100HACK/Detection-Lab)     |
-| Case Documentation | All Labs                 |
+
 
 
 ## Tools
@@ -75,7 +75,7 @@ My passion for cybersecurity has driven me to build home labs, simulate attacks,
 ## Projects
 
 - [BruteForce Detection](https://github.com/SHAHID1100HACK/Detection-Lab)
-- [Network Traffic Lab](https://github.com/SHAHID1100HACK/Network-Traffic-Lab)
+
 - [Firewall Lab](https://github.com/SHAHID1100HACK/Firewall-Lab)
-- [Web Log Threat Hunt](https://github.com/SHAHID1100HACK/Web-Log-Threat-Hunt)
+
 
