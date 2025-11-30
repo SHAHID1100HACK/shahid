@@ -27,26 +27,21 @@ My passion for cybersecurity has driven me to build home labs, simulate attacks,
 ### Network
 <div>
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Netcat-1E90FF?style=for-the-badge&logo=GNU&logoColor=white" />
-  <img src="https://img.shields.io/badge/-curl-23A8F2?style=for-the-badge&logo=cURL&logoColor=white" />
-  <img src="https://img.shields.io/badge/-dig-FF6600?style=for-the-badge&logo=GNU&logoColor=white" />
+ 
 </div>
 
 
 ### Firewall
 <div>
   <img src="https://img.shields.io/badge/-SafeLine-00CC99?style=for-the-badge&logo=Fortinet&logoColor=white" />
-  <img src="https://img.shields.io/badge/-DVWA-A1B2C3?style=for-the-badge&logo=Hackaday&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VirtualBox-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white" />
+
 </div>
 
 
 ### SIEM
-<div>
-  <img src="https://img.shields.io/badge/-Filebeat-005571?style=for-the-badge&logo=Elastic&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Elasticsearch-005571?style=for-the-badge&logo=Elastic&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Kibana-E8478B?style=for-the-badge&logo=Kibana&logoColor=white" />
-</div>
+![Wazuh](https://img.shields.io/badge/Wazuh-00A9E0?style=for-the-badge&logo=wazuh&logoColor=white)
+
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=F2B828)
 
 ## Certifications
 
