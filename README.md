@@ -3,72 +3,43 @@
 
 I’m an aspiring cybersecurity professional with a deep curiosity for technology and a hands-on approach to learning.
 
-
-
 ## Objective
-My passion for cybersecurity has driven me to build home labs, simulate attacks, and develop tools like log analyzers and phishing detectors. I am now actively seeking to apply these skills in a professional SOC environment as a Tier 1 Analyst.
+My passion for cybersecurity has driven me to build enterprise-grade home labs, simulate attacks, and configure defenses. I focus on Active Directory security, SIEM log analysis, and network forensics. I am actively seeking to apply these skills in a professional SOC environment as a Tier 1 Analyst.
 
 ## Skills
 
-| Skill              | Associated Project      |
+| Skill              | Associated Project       |
 |--------------------|--------------------------|
-| SIEM               | [BruteForce Detection](https://github.com/SHAHID1100HACK/Detection-Lab)     |
-| Log Analysis       | [BruteForce Detection](https://github.com/SHAHID1100HACK/Detection-Lab)     |
-| Threat Detection   | [Web Log Threat Hunt](https://github.com/SHAHID1100HACK/Web-Log-Threat-Hunt)|
-| Network Analysis   | [Network Traffic Lab](https://github.com/SHAHID1100HACK/Network-Traffic-Lab)|
-| Firewall Setup     | [Firewall Lab](https://github.com/SHAHID1100HACK/Firewall-Lab)              |
-| Incident Response  | [BruteForce Detection](https://github.com/SHAHID1100HACK/Detection-Lab)     |
-
-
+| Active Directory   | [AD Attack & Defense](https://github.com/SHAHID1100HACK/AD-Attack-Defense) |
+| SIEM Administration| [Splunk Detection Lab](https://github.com/SHAHID1100HACK/Splunk-Detection-Lab) |
+| Endpoint Security  | [Wazuh EDR Lab](https://github.com/SHAHID1100HACK/Wazuh-Lab) |
+| Network Forensics  | [Network Traffic Analysis](https://github.com/SHAHID1100HACK/Network-Analysis) |
+| Python Automation  | [Log Parsing Scripts](https://github.com/SHAHID1100HACK/Security-Scripts) |
+| Incident Response  | [Splunk Detection Lab](https://github.com/SHAHID1100HACK/Splunk-Detection-Lab) |
 
 ## Tools
 
-
-### Network
+### Network & Infrastructure
 <div>
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
- 
+  <img src="https://img.shields.io/badge/-Active_Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
 
-
-### Firewall
+### Security Tools
 <div>
+  <img src="https://img.shields.io/badge/Wazuh-00A9E0?style=for-the-badge&logo=wazuh&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=F2B828" />
   <img src="https://img.shields.io/badge/-SafeLine-00CC99?style=for-the-badge&logo=Fortinet&logoColor=white" />
-
-</div>
-
-
-### SIEM
-![Wazuh](https://img.shields.io/badge/Wazuh-00A9E0?style=for-the-badge&logo=wazuh&logoColor=white)
-
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=F2B828)
-
-## Certifications
-
-<div>
-  <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/gmf3ypEXBj2wvfQWC_ifobHAoMjQs9s6bKS_m7GALjecspXHFL5R9_1750154956634_completion_certificate.pdf">
-    <img src="https://img.shields.io/badge/-Cybersecurity_Internship_(Forage)_by_Palo_Alto_Networks-005571?style=for-the-badge&logo=PaloAltoNetworks&logoColor=white" />
-  </a>
-
-  <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/gCW7Xki5Y3vNpBmnn/yTszJTvkHFBH6zAn3_gCW7Xki5Y3vNpBmnn_m7GALjecspXHFL5R9_1748539506953_completion_certificate.pdf">
-    <img src="https://img.shields.io/badge/-Security_Operations_Internship_(Forage)_by_CyberCX-003366?style=for-the-badge&logo=Cloudflare&logoColor=white" />
-  </a>
-
-  <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/E9pA6qsdbeyEkp3ti_9PBTqmSxAf6zZTseP_m7GALjecspXHFL5R9_1748341749537_completion_certificate">
-    <img src="https://img.shields.io/badge/-AWS_Cybersecurity_Internship_(Forage)-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white" />
-  </a>
-
-  <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mfxGwGDp6WkQmtmTf/vcKAB5yYAgvemepGQ_mfxGwGDp6WkQmtmTf_m7GALjecspXHFL5R9_1748452965177_completion_certificate.pdf">
-    <img src="https://img.shields.io/badge/-ANZ_Cybersecurity_Virtual_Experience_(Forage)-134D90?style=for-the-badge&logo=ANZ&logoColor=white" />
-  </a>
-
-  <a href="https://certificates.cs50.io/7c9cbb94-de1e-4741-a394-9731fd5aac53.pdf?size=letter">
-    <img src="https://img.shields.io/badge/-Harvard_CS50_Intro_to_Computer_Science-A51C30?style=for-the-badge&logo=HarvardUniversity&logoColor=white" />
-  </a>
 </div>
 
 ## Projects
 
-- [BruteForce Detection](https://github.com/SHAHID1100HACK/Detection-Lab)
+### 1. [Splunk Detection Lab (Active Directory)](https://github.com/SHAHID1100HACK/Splunk-Detection-Lab)
+Built a Windows Domain environment, ingested logs into Splunk, and wrote SPL queries to detect Brute Force (Hydra) and Kerberoasting attacks.
 
-- [Firewall Lab](https://github.com/SHAHID1100HACK/Firewall-Lab)
+### 2. [Wazuh EDR & Monitoring](https://github.com/SHAHID1100HACK/Wazuh-Lab)
+Deployed Wazuh Manager to monitor Linux endpoints. Configured File Integrity Monitoring (FIM) and detected web attacks (SQLi/XSS).
+
+### 3. [Network Traffic Analysis](https://github.com/SHAHID1100HACK/Network-Analysis)
+Analyzed PCAP files using Wireshark to identify malware handshakes. Wrote Python scripts to automate IP extraction from logs.
