@@ -10,7 +10,7 @@ My passion for cybersecurity has driven me to build enterprise-grade home labs, 
 
 | Skill              | Associated Project       |
 |--------------------|--------------------------|
-| Active Directory   | [AD Attack & Defense](https://github.com/SHAHID1100HACK/AD-Attack-Defense) |
+| Active Directory   | [AD Attack & Defense](https://github.com/SHAHID1100HACK/Detection-Lab) |
 | SIEM Administration| [Splunk Detection Lab](https://github.com/SHAHID1100HACK/Splunk-Detection-Lab) |
 | Endpoint Security  | [Wazuh EDR Lab](https://github.com/SHAHID1100HACK/Wazuh-Lab) |
 | Network Forensics  | [Network Traffic Analysis](https://github.com/SHAHID1100HACK/Network-Analysis) |
