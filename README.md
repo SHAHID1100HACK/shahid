@@ -36,11 +36,20 @@ Aspiring SOC Analyst who prefers the terminal over textbooks. I build my own sec
 
 ## Projects
 
-### 1. [Splunk Detection Lab (Active Directory)](https://github.com/SHAHID1100HACK/Splunk-Detection-Lab)
-Built a Windows Domain environment, ingested logs into Splunk, and wrote SPL queries to detect Brute Force (Hydra) and Kerberoasting attacks.
+### 1. [Threat Hunting Home Lab](https://github.com/YOUR_USERNAME/Threat-Hunting-Lab)
+Executed and detected varying attack scenarios in a controlled environment.
 
-### 2. [Wazuh EDR & Monitoring](https://github.com/SHAHID1100HACK/Wazuh-Lab)
-Deployed Wazuh Manager to monitor Linux endpoints. Configured File Integrity Monitoring (FIM) and detected web attacks (SQLi/XSS).
+### 2. [Blue Team Tools Repository](https://github.com/YOUR_USERNAME/Blue-Team-Tools)
+A collection demonstrating configuration and usage of popular SIEMs and defense tools.
 
-### 3. [Network Traffic Analysis](https://github.com/SHAHID1100HACK/Network-Analysis)
-Analyzed PCAP files using Wireshark to identify malware handshakes. Wrote Python scripts to automate IP extraction from logs.
+### 3. [Malware Analysis](https://github.com/YOUR_USERNAME/Malware-Analysis)
+Practical analysis of malicious files and artifacts.
+
+### 4. [Phishing & Incident Response](https://github.com/YOUR_USERNAME/Phishing-Response)
+End-to-end investigation of simulated phishing attacks.
+
+### 5. [AI Security Agent (RAG)](https://github.com/YOUR_USERNAME/AI-Security-Agent)
+Custom AI tool built to assist with security research.
+
+### 6. [Python Automation](https://github.com/YOUR_USERNAME/Python-Automation)
+Custom scripts developed to automate routine SOC tasks.
