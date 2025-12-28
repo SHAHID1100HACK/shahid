@@ -16,7 +16,7 @@ Aspiring SOC Analyst who prefers the terminal over textbooks. I build my own sec
 | Blue Team Tools Repository    | [Network Traffic Analysis](https://github.com/SHAHID1100HACK/Network-Analysis) |
 | Python Automation             | [Log Parsing Scripts](https://github.com/SHAHID1100HACK/Security-Scripts)      |
 | Phishing & Incident Response  | [Splunk Detection Lab](https://github.com/SHAHID1100HACK/Splunk-Detection-Lab) |
-| Malware Analysis              | [Malware analysis lab](https://github.com/SHAHID1100HACK/Splunk-Detection-Lab) |
+| Malware Analysis              | [Malware analysis lab](https://github.com/SHAHID1100HACK/Malware-analysis-lab) |
 
 ## Tools
 
