@@ -4,18 +4,19 @@
 I’m an aspiring cybersecurity professional with a deep curiosity for technology and a hands-on approach to learning.
 
 ## Objective
-My passion for cybersecurity has driven me to build enterprise-grade home labs, simulate attacks, and configure defenses. I focus on Active Directory security, SIEM log analysis, and network forensics. I am actively seeking to apply these skills in a professional SOC environment as a Tier 1 Analyst.
+Aspiring SOC Analyst who prefers the terminal over textbooks. I build my own security tools, manage a custom home lab for log analysis, and practice defense against simulated attacks daily. Ready to bring a proactive, 'figure-it-out' mindset to a professional security team.
 
 ## Skills
 
-| Skill              | Associated Project       |
-|--------------------|--------------------------|
-| Active Directory   | [AD Attack & Defense](https://github.com/SHAHID1100HACK/Detection-Lab) |
-| SIEM Administration| [Splunk Detection Lab](https://github.com/SHAHID1100HACK/Splunk-Detection-Lab) |
-| Endpoint Security  | [Wazuh EDR Lab](https://github.com/SHAHID1100HACK/Wazuh-Lab) |
-| Network Forensics  | [Network Traffic Analysis](https://github.com/SHAHID1100HACK/Network-Analysis) |
-| Python Automation  | [Log Parsing Scripts](https://github.com/SHAHID1100HACK/Security-Scripts) |
-| Incident Response  | [Splunk Detection Lab](https://github.com/SHAHID1100HACK/Splunk-Detection-Lab) |
+| Skill                         | Associated Project                                                             |
+|-------------------------------|--------------------------------------------------------------------------------|
+| Threat Hunting Home Lab       | [AD Attack & Defense](https://github.com/SHAHID1100HACK/Detection-Lab)         |
+| SIEM Administration           | [Splunk Detection Lab](https://github.com/SHAHID1100HACK/Splunk-Detection-Lab) |
+| AI Security Agent (RAG)       | [Wazuh EDR Lab](https://github.com/SHAHID1100HACK/Wazuh-Lab)                   |
+| Blue Team Tools Repository    | [Network Traffic Analysis](https://github.com/SHAHID1100HACK/Network-Analysis) |
+| Python Automation             | [Log Parsing Scripts](https://github.com/SHAHID1100HACK/Security-Scripts)      |
+| Phishing & Incident Response  | [Splunk Detection Lab](https://github.com/SHAHID1100HACK/Splunk-Detection-Lab) |
+| Malware Analysis              | [Malware analysis lab](https://github.com/SHAHID1100HACK/Splunk-Detection-Lab) |
 
 ## Tools
 
