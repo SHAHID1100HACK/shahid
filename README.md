@@ -11,7 +11,6 @@ Aspiring SOC Analyst who prefers the terminal over textbooks. I build my own sec
 | Skill                         | Associated Project                                                             |
 |-------------------------------|--------------------------------------------------------------------------------|
 | Threat Hunting Home Lab       | [AD Attack & Defense](https://github.com/SHAHID1100HACK/Detection-Lab)         |
-| SIEM Administration           | [Splunk Detection Lab](https://github.com/SHAHID1100HACK/Splunk-Detection-Lab) |
 | AI Security Agent (RAG)       | [Wazuh EDR Lab](https://github.com/SHAHID1100HACK/Wazuh-Lab)                   |
 | Blue Team Tools Repository    | [Network Traffic Analysis](https://github.com/SHAHID1100HACK/Network-Analysis) |
 | Python Automation             | [Log Parsing Scripts](https://github.com/SHAHID1100HACK/Security-Scripts)      |
