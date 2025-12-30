@@ -19,36 +19,35 @@ Aspiring SOC Analyst who prefers the terminal over textbooks. I build my own sec
 
 ## Tools
 
-### Network & Infrastructure
 <div>
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/-Active_Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
 </div>
 
-### Security Tools
 <div>
   <img src="https://img.shields.io/badge/Wazuh-00A9E0?style=for-the-badge&logo=wazuh&logoColor=white" />
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=F2B828" />
-  <img src="https://img.shields.io/badge/-SafeLine-00CC99?style=for-the-badge&logo=Fortinet&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Firewall-00CC99?style=for-the-badge&logo=Fortinet&logoColor=white" />
 </div>
 
 ## Projects
 
-### 1. [Threat Hunting Home Lab](https://github.com/YOUR_USERNAME/Threat-Hunting-Lab)
+### 1. [Threat Hunting Home Lab](https://github.com/SHAHID1100HACK/Detection-Lab)
 Executed and detected varying attack scenarios in a controlled environment.
 
-### 2. [Blue Team Tools Repository](https://github.com/YOUR_USERNAME/Blue-Team-Tools)
+### 2. [Blue Team Tools Repository](https://github.com/SHAHID1100HACK/Blue-Team-Tools) 
 A collection demonstrating configuration and usage of popular SIEMs and defense tools.
 
-### 3. [Malware Analysis](https://github.com/YOUR_USERNAME/Malware-Analysis)
+### 3. [Malware Analysis](https://github.com/SHAHID1100HACK/Malware-analysis-lab)
 Practical analysis of malicious files and artifacts.
 
-### 4. [Phishing & Incident Response](https://github.com/YOUR_USERNAME/Phishing-Response)
+### 4. [Phishing & Incident Response](https://github.com/SHAHID1100HACK/Phishing-Incident-Response)
 End-to-end investigation of simulated phishing attacks.
 
-### 5. [AI Security Agent (RAG)](https://github.com/YOUR_USERNAME/AI-Security-Agent)
+### 5. [AI Security Agent (RAG)](https://github.com/SHAHID1100HACK/Security-Agent-)
 Custom AI tool built to assist with security research.
 
-### 6. [Python Automation](https://github.com/YOUR_USERNAME/Python-Automation)
+### 6. [Python Automation](https://github.com/SHAHID1100HACK/Python-automation-)
 Custom scripts developed to automate routine SOC tasks.
