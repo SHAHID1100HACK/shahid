@@ -8,14 +8,14 @@ Aspiring SOC Analyst who prefers the terminal over textbooks. I build my own sec
 
 ## Skills
 
-| Skill                         | Associated Project                                                             |
-|-------------------------------|--------------------------------------------------------------------------------|
-| Threat Hunting Home Lab       | [AD Attack & Defense](https://github.com/SHAHID1100HACK/Detection-Lab)         |
-| AI Security Agent (RAG)       | [Wazuh EDR Lab](https://github.com/SHAHID1100HACK/Wazuh-Lab)                   |
-| Blue Team Tools Repository    | [Network Traffic Analysis](https://github.com/SHAHID1100HACK/Network-Analysis) |
-| Python Automation             | [Log Parsing Scripts](https://github.com/SHAHID1100HACK/Security-Scripts)      |
-| Phishing & Incident Response  | [Splunk Detection Lab](https://github.com/SHAHID1100HACK/Splunk-Detection-Lab) |
-| Malware Analysis              | [Malware analysis lab](https://github.com/SHAHID1100HACK/Malware-analysis-lab) |
+| Skill                         | Associated Project                                                                   |
+|-------------------------------|--------------------------------------------------------------------------------------|
+| Threat Hunting Home Lab       | [AD Attack & Defense](https://github.com/SHAHID1100HACK/Detection-Lab)               |
+| AI Security Agent (RAG)       | [SECURITY AI ](https://github.com/SHAHID1100HACK/Security-Agent-)                    |
+| Blue Team Tools Repository    | [TOOLS](https://github.com/SHAHID1100HACK/Blue-Team-Tools)                           |
+| Python Automation             | [Python](https://github.com/SHAHID1100HACK/Python-automation-)                       |
+| Phishing & Incident Response  | [Incident response](https://github.com/SHAHID1100HACK/Phishing-Incident-Response)    |
+| Malware Analysis              | [Malware analysis lab](https://github.com/SHAHID1100HACK/Malware-analysis-lab)       |
 
 ## Tools
 
