@@ -1,5 +1,5 @@
 # Hello, I'm SHAHID
-<a href="www.linkedin.com/in/shahid-thoker-64764b368"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/shahid-thoker-57bb80262"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I’m an aspiring cybersecurity professional with a deep curiosity for technology and a hands-on approach to learning.
 
