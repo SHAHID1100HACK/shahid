@@ -11,10 +11,10 @@ Aspiring SOC Analyst who prefers the terminal over textbooks. I build my own sec
 | Skill                         | Associated Project                                                                   |
 |-------------------------------|--------------------------------------------------------------------------------------|
 | Threat Hunting Home Lab       | [AD Attack & Defense](https://github.com/SHAHID1100HACK/Detection-Lab)               |
-| AI Security Agent (RAG)       | [SECURITY AI ](https://github.com/SHAHID1100HACK/Security-Agent-)                    |
+| AI SOC ANALYST                | [AI SOC ](https://github.com/SHAHID1100HACK/AI-SOC-ANALYST)                          |
 | Blue Team Tools Repository    | [TOOLS](https://github.com/SHAHID1100HACK/Blue-Team-Tools)                           |
 | Python Automation             | [Python](https://github.com/SHAHID1100HACK/Python-automation-)                       |
-| Phishing & Incident Response  | [Incident response](https://github.com/SHAHID1100HACK/Phishing-Incident-Response)    |
+| Phishing ANALYZER AI          | [IPHYSHING ANALYSIS](https://github.com/SHAHID1100HACK/Phishing-Incident-Response)   |
 | Malware Analysis              | [Malware analysis lab](https://github.com/SHAHID1100HACK/Malware-analysis-lab)       |
 
 ## Tools
