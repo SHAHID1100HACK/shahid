@@ -8,7 +8,7 @@ Proactive SOC Analyst and Certified Junior Penetration Tester. Experienced in th
 
 | Skill                         | Associated Project                                                                   |
 |-------------------------------|--------------------------------------------------------------------------------------|
-| Threat Hunting Home Lab       | [AD Attack & Defense](https://github.com/SHAHID1100HACK/Detection-Lab)               |
+| Threat Hunting Home Lab       | [AD Attack & Defense](https://github.com/SHAHID1100HACK/THREAT-hunting/tree/main)    |
 | AI SOC ANALYST                | [AI SOC ](https://github.com/SHAHID1100HACK/AI-SOC-ANALYST)                          |
 | Blue Team Tools Repository    | [TOOLS](https://github.com/SHAHID1100HACK/Blue-Team-Tools)                           |
 | Python Automation             | [Python](https://github.com/SHAHID1100HACK/Python-automation-)                       |
@@ -21,18 +21,41 @@ Proactive SOC Analyst and Certified Junior Penetration Tester. Experienced in th
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/-Active_Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-</div>
-
-<div>
   <img src="https://img.shields.io/badge/Wazuh-00A9E0?style=for-the-badge&logo=wazuh&logoColor=white" />
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=F2B828" />
   <img src="https://img.shields.io/badge/-Firewall-00CC99?style=for-the-badge&logo=Fortinet&logoColor=white" />
-</div>
+  <img src="https://img.shields.io/badge/-Burp_Suite-00CC99?style=for-the-badge&logo=Fortinet&logoColor=white" />
+  <img src="https://img.shields.io/badge/-N8N-00CC99?style=for-the-badge&logo=Fortinet&logoColor=white" />
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
 
 ## Projects
 
-### 1. [Threat Hunting Home Lab](https://github.com/SHAHID1100HACK/Detection-Lab)
+### 1. [Threat Hunting Home Lab](https://github.com/SHAHID1100HACK/THREAT-hunting/tree/main)
 Executed and detected varying attack scenarios in a controlled environment.
 
 
